@@ -15,7 +15,9 @@ GameObject:
   - component: {fileID: -3502990631552993376}
   - component: {fileID: 5741341661450976446}
   - component: {fileID: 3853721445204685928}
+  - component: {fileID: 1672892505203052561}
   - component: {fileID: 6411038391069253916}
+  - component: {fileID: -113306826888690368}
   m_Layer: 7
   m_Name: Enemy0
   m_TagString: Enemy
@@ -190,6 +192,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 618dff429446ef54a9323c7df00d2de4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1672892505203052561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6594188705698099755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7933b3ed09788934fb6f83e61aa0930b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShieldedHit: {fileID: 1952661537745900862, guid: bc60bee067a5a3b4ba5e11218e51fdff, type: 3}
+  DeathHit: {fileID: 1494077193758300562, guid: 31a8ed2391a105e48a8927fe09a3698c, type: 3}
 --- !u!114 &6411038391069253916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,3 +219,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 1
+  effects: {fileID: 0}
+--- !u!114 &-113306826888690368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6594188705698099755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16d649a2dcceac4d91e90433bab9341, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 92408085440516984, guid: f976a580b1114bb40b734a346874102f, type: 3}
+  projectileSpeed: 10
+  aliveTime: 5
+  fireSpeed: 0.5
+  spawnAngle: 0
+  useAI: 1
+  shotTimeVariance: 0.5
+  minShotTime: 0.1
+  isFiring: 0

@@ -16,6 +16,7 @@ public class WaveConfigSO : ScriptableObject
     [SerializeField] float timeBetweenSpawns = 1f;
     [SerializeField] float spawnTimeVariance = 1f;
     [SerializeField] float minSpawnTime = 0.2f;
+    
 
     //to return first waypoint
     public Transform GetStartingwaypoint()

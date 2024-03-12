@@ -8,7 +8,7 @@ public class Enemy : MonoBehaviour
     /*This file will be attached to enemy prefabs so that we can add enemy behaviour to it such as shooting, 
      *impact events and so on
      */
-    Health health;
+    Health health;    
 
     void Awake()
     {
@@ -26,6 +26,7 @@ public class Enemy : MonoBehaviour
         {
             DamageDealer dmgDealer = coll.gameObject.GetComponent<DamageDealer>();
             health.HurtUnit(dmgDealer.GetDamage());
+
             if (coll.gameObject.tag == "Shot")
             {
                 dmgDealer.KillProjectile();

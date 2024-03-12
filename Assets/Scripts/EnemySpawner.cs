@@ -8,6 +8,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] List<WaveConfigSO> waveConfigs;
     [SerializeField] float timeBetweenWaves = 1f;
     [SerializeField] bool isLooping = true;
+    [SerializeField] float spawnAngle = 180f;
     WaveConfigSO currentWave;
     
     // Start is called before the first frame update
@@ -15,7 +16,7 @@ public class EnemySpawner : MonoBehaviour
     {
         //StartCoroutine(WaveSpawn());
         StartCoroutine(SpawnEnemyWaves());
-        
+                
     }
 
     IEnumerator SpawnEnemyWaves()
@@ -28,7 +29,7 @@ public class EnemySpawner : MonoBehaviour
 
                 for (int j = 0; j < currentWave.GetEnemyCount(); j++)
                 {
-                    Instantiate(currentWave.GetEnemyPrefab(j), currentWave.GetStartingwaypoint().position, Quaternion.identity, transform);
+                    Instantiate(currentWave.GetEnemyPrefab(j), currentWave.GetStartingwaypoint().position, Quaternion.Euler(0,0,spawnAngle), transform);
                     //Standard Instantiation requires a rotation value - quaternian.identity
                     yield return new WaitForSeconds(currentWave.GetRandomSpawnTime());
                     //requires loop to wait until time has elapsed. Time to wait is calculated with the waveconfig method GetRandomSpawnTime and applied

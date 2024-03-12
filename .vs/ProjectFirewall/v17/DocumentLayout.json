@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\ProjectFirewall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|c:\\coding\\projectfirewall\\assets\\scripts\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\spritescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spritescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\explodeeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explodeeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|C:\\Coding\\ProjectFirewall\\assets\\scripts\\waveconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D064D-3271-105E-221E-A4CA35F7A4C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioPlayer.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\AudioPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:42:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteScroller.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\SpriteScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteScroller.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\SpriteScroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteScroller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:40:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShake.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:59:01.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:07:52.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExplodeEffects.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\ExplodeEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExplodeEffects.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\ExplodeEffects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExplodeEffects.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:56:48.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:35:32.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DamageDealer.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\DamageDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageDealer.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\DamageDealer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageDealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:35:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooter.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooter.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:08:49.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:01:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:18:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WaveConfigSO.cs",
+              "DocumentMoniker": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\WaveConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveConfigSO.cs",
+              "ToolTip": "C:\\Coding\\ProjectFirewall\\Assets\\Scripts\\WaveConfigSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveConfigSO.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwDoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:16:51.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

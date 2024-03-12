@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Shot
+  - EnemyShot
+  - particle
   layers:
   - Default
   - TransparentFX
@@ -40,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3554147757
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

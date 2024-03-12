@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
 
     Health health;
     Shooter shooter;
+    CameraShake cameraShake;
 
     Vector2 minBounds;
     Vector2 maxBounds;
@@ -18,6 +19,7 @@ public class Player : MonoBehaviour
    void Awake()
     {
         shooter = GetComponent<Shooter>();
+        cameraShake = Camera.main.GetComponent<CameraShake>();
     }
 
     void Start()
@@ -57,7 +59,7 @@ public class Player : MonoBehaviour
     {
         rawInput = value.Get<Vector2>(); 
         //we use an independent variable for modularity. This allows us to reference the move value in other places in this script, such as in the Update method
-        Debug.Log(rawInput); //debugging
+       
     }
 
     private void OnFire(InputValue value)
@@ -73,14 +75,17 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D coll)
     {
-        if(coll.gameObject.tag == "Enemy" || coll.gameObject.tag == "Shot")
+        if(coll.gameObject.tag == "Enemy" || coll.gameObject.tag == "EnemyShot")
         {
+
             DamageDealer dmgDealer = coll.gameObject.GetComponent<DamageDealer>();
+            cameraShake.Play();
             health.HurtUnit(dmgDealer.GetDamage());
-            if(coll.gameObject.tag == "Shot")
+            if(coll.gameObject.tag == "EnemyShot")
             {
                 dmgDealer.KillProjectile();
             }
         }
+
     }
 }

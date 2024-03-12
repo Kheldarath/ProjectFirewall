@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4361496320742649635}
   m_Layer: 7
   m_Name: Projectile_Enemy1
-  m_TagString: Shot
+  m_TagString: EnemyShot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 2296214554316154778}
   m_Layer: 7
   m_Name: Laser
-  m_TagString: Shot
+  m_TagString: EnemyShot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,7 +134,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -3880047371785838432, guid: 194c1f9d112c8ed41b621ade6fdd44ea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
