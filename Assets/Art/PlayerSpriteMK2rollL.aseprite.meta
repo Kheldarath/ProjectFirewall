@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e5466358d16dd9b499f29fdf71cd563f
+guid: 4d7aaa74b0186224b8a5a3077a34d05d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638462009964329898
+  platformSettingsDirtyTick: 638462009783295039
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: PlayerSpriteMK2
+  - name: PlayerSpriteMK2rollL
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.50793654, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 56
-      height: 58
-    spriteID: 033060a3b687d344d8470e26a71e63e0
+      width: 252
+      height: 59
+    spriteID: 4485bed240e4a384aa1acdc533081492
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -651402796
-    name: PlayerSpriteMK2
+    guid: 1027402655
+    name: PlayerSpriteMK2rollL
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: PlayerSpriteMK2
+    - name: PlayerSpriteMK2rollL
       frameIndex: 0
       cellRect:
-        x: 4
+        x: 0
         y: 0
-        width: 56
-        height: 58
-      spriteId: 033060a3b687d344d8470e26a71e63e0
+        width: 252
+        height: 59
+      spriteId: 4485bed240e4a384aa1acdc533081492
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -236,4 +236,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 256, y: 64}
